@@ -33,8 +33,8 @@
 
 <h3 align="left">Свяжитесь со мной:</h3>
 <p align="left">
-  <a href="https://vk.com/maximepihin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg" alt="uckusrcohuy6t4sei-rvzcqq" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/uckusrcohuy6t4sei-rvzcqq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uckusrcohuy6t4sei-rvzcqq" height="30" width="40" /></a>
+  <a href="https://vk.com/maksimepikhin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg" alt="uckusrcohuy6t4sei-rvzcqq" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/channel/UCKusRcoHUy6T4sei-rVzCqQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uckusrcohuy6t4sei-rvzcqq" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/4772782" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4772782" height="30" width="40" /></a>
   <a href="https://dev.to/maximepihin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="maximepihin" height="30" width="40" /></a>
 </p>
